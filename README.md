@@ -29,6 +29,6 @@
 </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
-<h2>Mi repositories</h2>  
+<h2>My repositories</h2>  
 </div>
 
