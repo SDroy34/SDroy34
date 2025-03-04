@@ -29,6 +29,6 @@
 </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
-<h2>My repositories</h2>  
+<h2>My repositories<img src="https://media2.giphy.com/media/CcRXj2hW92TvdXVlys/giphy.gif?cid=6c09b952umnfxqlgp6goguvl3y6c2cyvy6eptma2755sr06t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=35></h2>  
 </div>
 
