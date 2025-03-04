@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Bakcend+Developer"/>  
 </div>
 
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,discord,cs,cpp,js,mysql,sqlite,ts,postman,vscode,visualstudio" />
   </a>
 </p>
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
